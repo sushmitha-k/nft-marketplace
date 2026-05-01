@@ -1,4 +1,4 @@
-# 🚀 NFT Marketplace (Personal Project)
+# 🚀 NFT Marketplace
 
 A full-stack **Web3 NFT Marketplace** built to explore real-world decentralized application architecture — including blockchain interaction, indexing, compliance, and modern frontend patterns.
 
